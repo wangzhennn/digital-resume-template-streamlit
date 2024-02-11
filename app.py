@@ -123,7 +123,7 @@ st.write("---")
 st.write("**A Literature Review of Supervisor Developmental Feedback**")
 st.write("01/2021 - 06/2021 | Bachelor's thesis, Grade:A")
 st.write("Based on massive supervisor developmental feedback (SDF) studies published in SSCI/CSSCI journals over the past two decades, this study clarifies the concept and measurements of SDF, categorizes existing research theories and summarizes influential mechanisms. Following these, various future research directions are proposed")
-st.image(sdf_04, width=600)
+st.image(sdf_04, width=700)
 st.write("---")
 
 
