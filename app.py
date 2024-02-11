@@ -84,7 +84,7 @@ st.subheader("Project Portfolio")
 st.write("---")
 # --- Project Portfolio 1 ---
 st.write("**Leadership Research Progress in past 5 years**")
-st.write("10/2022 - 11/2022")
+st.write("10/2022 - 11/2022, Grade:12/12")
 st.write("Based on Scopus publication data, this project employed Natural Language Processing models to identify key research topics in the leadership field (Organizational Behavior area) and analyzed the dynamic trend over the past 5 years. Additionally, this project applied Network Analysis on top author/author corporation network analysis")
 
 
