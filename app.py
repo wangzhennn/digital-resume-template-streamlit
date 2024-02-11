@@ -91,7 +91,7 @@ st.subheader("Educational Background")
 st.write("---")
 # --- EDU 1 ---
 st.write("**Renmin University of China**")
-st.write("***Master of Human Resource Management***")
+st.write("*Master of Human Resource Management* (HRM Major ranked 1st in China)")
 st.write("09/2021 - 06/2024 (Expected)")
 st.write(
     """
