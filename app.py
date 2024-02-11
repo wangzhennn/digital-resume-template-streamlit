@@ -85,7 +85,13 @@ st.write("---")
 # --- Project Portfolio 1 ---
 st.write("**Leadership Research Progress in past 5 years**")
 st.write("10/2022 - 11/2022")
-st.write("Employed NLP models to identify key research topics in the leadership field (OB area) based on Scopus publication data, and analyzed the dynamic trend over the past 5 years. Applied Network Analysis on top author/author corporation analysis")
+st.write("This project employed Natural Language Processing models to identify key research topics in the leadership field (Organizational Behavior area) based on Scopus publication data and analyzed the dynamic trend over the past 5 years. Additionally, this project applied Network Analysis on top author/author corporation network analysis")
+
+
+
+
+
+
 # --- EDU 2 ---
 st.write("**Exchange in Business Data Science, Aalborg University Business School**")
 st.write("02/2022 - 02/2023")
