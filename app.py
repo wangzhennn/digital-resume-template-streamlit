@@ -99,7 +99,7 @@ components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vSOE_ScAWIoVZ
 st.write("**User Analysis for The Safe Delivery App of Maternity Foundation**")
 st.write("11/2022 - 01/2023")
 st.write("Aiming to identify and reactivate dormant App users, this project conducted user journey, profile and usage analysis with App footprint data. Specifically, this project employed machine learning on dormant user identification and feature analysis, and leveraged results with customized suggestions for different user profiles. For project management, this project applied a hybrid model of CRISP-DM and the agile method as the main guideline")
-components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vSOE_ScAWIoVZPNIyuLGhF_0O4PrFGQf6TW6sF7pCAfsl_mL7KLmSn0YE7VskCkLg/embed?start=true&loop=false&delayms=3000", height=432)
+components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vQqmEq54pq2uxKTH_nTKvj0efOIL5gZ6CcR495oEKBxQj0sA8-yczeeqDzv3UUXGQ/embed?start=true&loop=false&delayms=3000", height=432)
 
 
 
