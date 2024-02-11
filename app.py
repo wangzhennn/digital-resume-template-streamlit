@@ -10,7 +10,7 @@ css_file = current_dir / "styles" / "main.css"
 resume_file = current_dir / "assets" / "CV.pdf"
 profile_pic = current_dir / "assets" / "profile.png"
 sdf_dig = current_dir / "assets" / "sdf_dig_Zhen_Vfinal.png"
-
+sdf_02 = current_dir / "assets" / "sdf_02.png"
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Zhen Wang"
@@ -44,7 +44,7 @@ with open(resume_file, "rb") as pdf_file:
     PDFbyte = pdf_file.read()
 profile_pic = Image.open(profile_pic)
 sdf_dig=Image.open(sdf_dig)
-
+sdf_02=Image.open(sdf_02)
 
 # --- HERO SECTION ---
 col1, col2 = st.columns(2, gap="small")
@@ -107,6 +107,7 @@ st.write("**Reducing Employees’ Time Theft through Supervisor Developmental Fe
 st.write("09/2022 - 02/2024 | Under SSCI Journal Review")
 st.write("Drawing the intensified ‘cat-and-mouse game’ between leaders and employees in combating time theft with the evolution of monitoring technologies, this study aims to identify how to encourage employees to proactively perform work roles more appropriately instead of using punitive actions. Study 2 further employed Topic Analysis techniques (Sentence-BERT+LDA) to analyze feedback topics and the differential influence")
 st.image(sdf_dig, width=700)
+st.image(sdf_02, width=700)
 st.write("---")
 
 
