@@ -16,9 +16,9 @@ PAGE_TITLE = "Zhen Wang"
 PAGE_ICON = "👨‍🎓"
 NAME = "Zhen Wang"
 DESCRIPTION = """
-Senior Data Analyst, assisting enterprises by supporting data-driven decision-making.
+Human Resource Management & Data Science.
 """
-EMAIL = "johndoe@email.com"
+EMAIL = "wangzhen611@ruc.edu.cn"
 SOCIAL_MEDIA = {
     "YouTube": "https://youtube.com/c/codingisfun",
     "LinkedIn": "https://linkedin.com",
