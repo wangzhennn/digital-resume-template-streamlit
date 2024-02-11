@@ -103,8 +103,8 @@ st.write("Aiming to identify and reactivate dormant App users, this project cond
 components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vQqmEq54pq2uxKTH_nTKvj0efOIL5gZ6CcR495oEKBxQj0sA8-yczeeqDzv3UUXGQ/embed?start=true&loop=false&delayms=3000", height=432)
 st.write("---")
 # --- Project Portfolio 4 ---
-st.write("**Reducing Employees’ Time Theft through Supervisor Developmental Feedback: A Serial Multiple Mediation Model of Perceived Insider Status and Work Passion** (Under Review)")
-st.write("09/2022 - 02/2024")
+st.write("**Reducing Employees’ Time Theft through Supervisor Developmental Feedback: A Serial Multiple Mediation Model of Perceived Insider Status and Work Passion**")
+st.write("09/2022 - 02/2024 | Under SSCI Journal Review")
 st.write("Drawing the intensified ‘cat-and-mouse game’ between leaders and employees in combating time theft with the evolution of monitoring technologies, this study aims to identify how to encourage employees to proactively perform work roles more appropriately instead of using punitive actions. Study 2 further employed Topic Analysis techniques (Sentence-BERT+LDA) to analyze feedback topics and the differential influence")
 st.image(sdf_dig, width=700)
 st.write("---")
