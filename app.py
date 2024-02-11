@@ -119,11 +119,17 @@ st.write("12/2023 - 02/2024 | Submitted to SSCI Journal")
 st.write("While CEOs play crucial roles in shaping family firms’ innovation strategies, existing studies remain controversial on which CEO succession origin, i.e. inside CEOs or outside CEOs, can better increase family firms’ innovative performance. This study extends current research by considering the boundary effects of macro environmental contingency and micro CEO psychological bias. Using a sample of 194 Chinese family firms from 2007 to 2019, our findings suggest that inside CEOs perform better than outside CEOs in family firms’ innovative performance. Furthermore, the impact of CEO succession origin on innovative performance is weaker in the context of higher market turbulence")
 st.image(ceo_01, width=600)
 st.write("---")
-# --- Project Portfolio 4 ---
+# --- Project Portfolio 6 ---
 st.write("**A Literature Review of Supervisor Developmental Feedback**")
 st.write("01/2021 - 06/2021 | Bachelor's thesis, Grade: A")
 st.write("Based on massive supervisor developmental feedback (SDF) studies published in SSCI/CSSCI journals over the past two decades, this study clarifies the concept and measurements of SDF, categorizes existing research theories and summarizes influential mechanisms. Following these, various future research directions are proposed")
 st.image(sdf_04, width=700)
+st.write("---")
+# --- Project Portfolio 7 ---
+st.write("**The Effects of Internet Use on Intergenerational Relationship and Aged anxiety: A Moderated Mediation**")
+st.write("09/2018 - 03/2019 | Working paper")
+st.write("Aged anxiety is critical to the well-being of older adults. In the context of anxiety propagation caused by social media, Internet use would shock vulnerable older adults who cannot discern information rationally, exacerbating their aged anxiety. This study explores the impact of Internet use by older adults on their aged anxiety and investigates the mediating effect of the intergenerational relationship and the moderating effect of self-image. Our study collects data from 343 older adults in Beijing, China. Statistical results reveal that Internet use by older adults is negatively associated with aged anxiety, and the relationship is partially mediated by the intergenerational relationship. In addition, self-image moderates the relationship between Internet use and intergenerational relationship in that the relationship is weaker when self-image is at high level. Moreover, self-image moderates the relationship between the intergenerational relationship and aged anxiety in that the relationship is weaker when self-image is at a high level. Realistic proposals are then discussed")
+st.image(eld_01, width=700)
 st.write("---")
 
 
