@@ -89,26 +89,25 @@ st.write("**Leadership: Research Progress of past 5 years**")
 st.write("10/2022 - 11/2022")
 st.write("Based on Scopus publication data, this project employed Natural Language Processing models to identify key research topics in the leadership field (Organizational Behavior area) and analyzed the dynamic trend over the past 5 years. Additionally, this project applied Network Analysis on top author/author corporation network analysis (Grade:12/12)")
 components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vSFaYEd2daBIaExYXzmtnwazls35nTVOLztx4Yqv6-W-f3ls9-vfaU4XwL45FCM6A/embed?start=true&loop=false&delayms=3000", height=432)
-
-
+st.write("---")
 # --- Project Portfolio 2 ---
 st.write("**Employee Attrition Analysis for company X**")
 st.write("10/2022 - 11/2022")
 st.write("Aiming at understanding the rationale for employees’ attrition, this project employed machine learning on employees' feature data to profile employee groups with various attrition levels and identify the attrition impact factors for the high attrition groups. After figuring out income as the rooted driven factor, this project further diagnosed and outlined income internal fairness problems (Grade: 12/12)")
 components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vSOE_ScAWIoVZPNIyuLGhF_0O4PrFGQf6TW6sF7pCAfsl_mL7KLmSn0YE7VskCkLg/embed?start=true&loop=false&delayms=3000", height=432)
-
+st.write("---")
 # --- Project Portfolio 3 ---
 st.write("**User Analysis for The Safe Delivery App of Maternity Foundation**")
 st.write("11/2022 - 01/2023")
 st.write("Aiming to identify and reactivate dormant App users, this project conducted user journey, profile and usage analysis with App footprint data. Specifically, this project employed machine learning on dormant user identification and feature analysis, and leveraged results with customized suggestions for different user profiles. For project management, this project applied a hybrid model of CRISP-DM and the agile method as the main guideline")
 components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vQqmEq54pq2uxKTH_nTKvj0efOIL5gZ6CcR495oEKBxQj0sA8-yczeeqDzv3UUXGQ/embed?start=true&loop=false&delayms=3000", height=432)
-
-# --- Project Portfolio 3 ---
+st.write("---")
+# --- Project Portfolio 4 ---
 st.write("**Reducing Employees’ Time Theft through Supervisor Developmental Feedback: A Serial Multiple Mediation Model of Perceived Insider Status and Work Passion**")
 st.write("09/2022 - 02/2024")
 st.write("Drawing the intensified ‘cat-and-mouse game’ between leaders and employees in combating time theft with the evolution of technologies, this study aims to identify how to encourage employees to proactively perform work roles more appropriately instead of using punitive actions. Study 2 further employed NLP to analyze feedback topics and differential influence")
 st.image(sdf_dig, width=700)
-
+st.write("---")
 
 
 
