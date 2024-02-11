@@ -92,7 +92,7 @@ components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vSFaYEd2daBIa
 # --- Project Portfolio 2 ---
 st.write("**Employee Attrition Analysis**")
 st.write("10/2022 - 11/2022")
-st.write("This project employed machine learning on employees' feature data to profile employee groups and identify the attrition impact factors for the high-attrition group. After figuring out income as the rooted driven factor, this project further diagnosed and outlined income internal fairness problems (Grade: 12/12)")
+st.write("This project employed machine learning on employees' feature data to profile employee groups and identify the attrition impact factors for the high-attrition groups. After figuring out income as the rooted driven factor, this project further diagnosed and outlined income internal fairness problems (Grade: 12/12)")
 components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vSOE_ScAWIoVZPNIyuLGhF_0O4PrFGQf6TW6sF7pCAfsl_mL7KLmSn0YE7VskCkLg/embed?start=true&loop=false&delayms=3000", height=432)
 
 
