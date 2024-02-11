@@ -135,7 +135,7 @@ st.image(eld_01, width=550)
 st.write("---")
 # --- Project Portfolio 8 ---
 st.write("**Assessing core values in performance management - A case study of Alibaba Group**")
-st.write("09/2021 - 10/2021 | Course essay, Grade: 98/100 ")
+st.write("09/2021 - 10/2021 | Course essay, Grade: A ")
 st.write("The human resources department is gradually transitioning from administrative tasks to driving organizational change, with performance management playing a vital role in executing organizational strategies. In recent years, some enterprises have innovatively introduced core values assessment in performance management, evaluating the alignment of employees' behavior with the organization's core values. At Alibaba Group, core value assessment even holds equal importance to employees' business performance assessment. Using Alibaba Group as a case example, our study reveals that assessing core values can identify and motivate employees who embody the organization's culture, thus strengthening their shared understanding of the company's strategic directions and shaping their future behaviors. Additionally, effective core value assessment requires a well-designed organizational core value system and assessment procedure, with full participation from all employees")
 st.write("---")
 
