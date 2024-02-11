@@ -94,9 +94,9 @@ st.write("**Master of Human Resource Management, Renmin University of China**")
 st.write("09/2021 - 06/2024 (Expected)")
 st.write(
     """
-- ► **GPA**: 3.94/4.00
-- ► **Relevant Courses**: Strategic Management and Organization Theory (93), Organizational Behavior (92), Talent Assessment (90), Performance and Rewards Management (98), Data Analysis in Management Studies (94)
-- ► **Teaching Assistant**: Human Resource Training and Development (2021 Fall), Labor Economics (2021 Spring)
+- 🔹 **GPA**: 3.94/4.00
+- 🔹 **Relevant Courses**: Strategic Management and Organization Theory (93), Organizational Behavior (92), Talent Assessment (90), Performance and Rewards Management (98), Data Analysis in Management Studies (94)
+- 🔹 **Teaching Assistant**: Human Resource Training and Development (2021 Fall), Labor Economics (2021 Spring)
 """
 )
 # --- EDU 2 ---
