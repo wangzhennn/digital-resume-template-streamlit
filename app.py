@@ -101,6 +101,12 @@ st.write("11/2022 - 01/2023")
 st.write("Aiming to identify and reactivate dormant App users, this project conducted user journey, profile and usage analysis with App footprint data. Specifically, this project employed machine learning on dormant user identification and feature analysis, and leveraged results with customized suggestions for different user profiles. For project management, this project applied a hybrid model of CRISP-DM and the agile method as the main guideline")
 components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vQqmEq54pq2uxKTH_nTKvj0efOIL5gZ6CcR495oEKBxQj0sA8-yczeeqDzv3UUXGQ/embed?start=true&loop=false&delayms=3000", height=432)
 
+# --- Project Portfolio 3 ---
+st.write("**Reducing Employees’ Time Theft through Supervisor Developmental Feedback: A Serial Multiple Mediation Model of Perceived Insider Status and Work Passion**")
+st.write("09/2022 - 02/2024")
+st.write("Drawing the intensified ‘cat-and-mouse game’ between leaders and employees in combating time theft with the evolution of technologies, this study aims to identify how to encourage employees to proactively perform work roles more appropriately instead of using punitive actions. Study 2 further employed NLP to analyze feedback topics and differential influence")
+
+
 
 
 
