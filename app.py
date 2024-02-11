@@ -23,19 +23,6 @@ DESCRIPTION = """
 Master student majoring in Human Resource Management and minor in Data Science. Seeking for Ph.D. in People Analytics
 """
 EMAIL = "wangzhen611@ruc.edu.cn"
-SOCIAL_MEDIA = {
-    "YouTube": "https://youtube.com/c/codingisfun",
-    "LinkedIn": "https://linkedin.com",
-    "GitHub": "https://github.com",
-    "Twitter": "https://twitter.com",
-}
-PROJECTS = {
-    "🏆 Sales Dashboard - Comparing sales across three stores": "https://youtu.be/Sb0A9i6d320",
-    "🏆 Income and Expense Tracker - Web app with NoSQL database": "https://youtu.be/3egaMfE9388",
-    "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
-    "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
-}
-
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
@@ -138,12 +125,3 @@ st.write("**Assessing core values in performance management - A case study of Al
 st.write("09/2021 - 10/2021 | Course essay, Grade: A ")
 st.write("The human resources department is gradually transitioning from administrative tasks to driving organizational change, with performance management playing a vital role in executing organizational strategies. In recent years, some enterprises have innovatively introduced core values assessment in performance management, evaluating the alignment of employees' behavior with the organization's core values. At Alibaba Group, core value assessment even holds equal importance to employees' business performance assessment. Using Alibaba Group as a case example, our study reveals that assessing core values can identify and motivate employees who embody the organization's culture, thus strengthening their shared understanding of the company's strategic directions and shaping their future behaviors. Additionally, effective core value assessment requires a well-designed organizational core value system and assessment procedure, with full participation from all employees")
 st.write("---")
-
-
-
-# --- Projects & Accomplishments ---
-st.write('\n')
-st.subheader("Projects & Accomplishments")
-st.write("---")
-for project, link in PROJECTS.items():
-    st.write(f"[{project}]({link})")
