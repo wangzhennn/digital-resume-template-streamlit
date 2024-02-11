@@ -16,7 +16,7 @@ PAGE_TITLE = "Zhen Wang"
 PAGE_ICON = "👨‍🎓"
 NAME = "Zhen Wang"
 DESCRIPTION = """
-Human Resource Management & Data Science.
+Master of Management & Data Science.
 """
 EMAIL = "wangzhen611@ruc.edu.cn"
 SOCIAL_MEDIA = {
