@@ -16,8 +16,8 @@ PAGE_TITLE = "Zhen Wang"
 PAGE_ICON = "👨‍🎓"
 NAME = "Zhen Wang"
 DESCRIPTION = """
-Human Resource Management & Data Science.
-Seekling for Ph.D. in HR analytics.
+Master of Management & Data Science.
+Seekling for Ph.D. in People Analytics.
 """
 EMAIL = "wangzhen611@ruc.edu.cn"
 SOCIAL_MEDIA = {
