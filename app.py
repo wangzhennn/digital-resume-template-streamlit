@@ -67,13 +67,6 @@ cols = st.columns(len(SOCIAL_MEDIA))
 for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
     cols[index].write(f"[{platform}]({link})")
 
-
-
-
-
-
-
-
 # --- Research Interest ---
 st.write('\n')
 st.subheader("Reserach Interest")
@@ -85,13 +78,13 @@ st.write(
 """
 )
 
-# --- Educational Background ---
+# --- Project Portfolio  ---
 st.write('\n')
-st.subheader("Educational Background")
+st.subheader("Project Portfolio")
 st.write("---")
-# --- EDU 1 ---
-st.write("**Master of Human Resource Management, Renmin University of China**")
-st.write("09/2021 - 06/2024 (Expected)")
+# --- Project Portfolio 1 ---
+st.write("**Leadership Research Progress in past 5 years**")
+st.write("10/2022 - 11/2022")
 st.write(
     """
 - 🔸 **GPA**: 3.94/4.00
