@@ -14,7 +14,7 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Zhen Wang"
 PAGE_ICON = "👨‍🎓"
-NAME = "Zhen Wang"
+NAME = "Zachary(Zhen) Wang"
 DESCRIPTION = """
 Master student majoring in Human Resource Management and minor in Data Science. Seeking for Ph.D. in People Analytics
 """
