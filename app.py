@@ -12,6 +12,7 @@ profile_pic = current_dir / "assets" / "profile.png"
 sdf_01 = current_dir / "assets" / "sdf_01.png"
 sdf_02 = current_dir / "assets" / "sdf_02.png"
 ceo_01 = current_dir / "assets" / "ceo_01.png"
+sdf_04 = current_dir / "assets" / "sdf_04.png"
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Zhen Wang"
@@ -47,6 +48,7 @@ profile_pic = Image.open(profile_pic)
 sdf_01=Image.open(sdf_01)
 sdf_02=Image.open(sdf_02)
 ceo_01=Image.open(ceo_01)
+sdf_04=Image.open(sdf_04)
 
 # --- HERO SECTION ---
 col1, col2 = st.columns(2, gap="small")
@@ -117,6 +119,13 @@ st.write("12/2023 - 02/2024 | Submitted to SSCI Journal")
 st.write("While CEOs play crucial roles in shaping family firms’ innovation strategies, existing studies remain controversial on which CEO succession origin, i.e. inside CEOs or outside CEOs, can better increase family firms’ innovative performance. This study extends current research by considering the boundary effects of macro environmental contingency and micro CEO psychological bias. Using a sample of 194 Chinese family firms from 2007 to 2019, our findings suggest that inside CEOs perform better than outside CEOs in family firms’ innovative performance. Furthermore, the impact of CEO succession origin on innovative performance is weaker in the context of higher market turbulence")
 st.image(ceo_01, width=600)
 st.write("---")
+# --- Project Portfolio 4 ---
+st.write("**A Literature Review of Supervisor Developmental Feedback**")
+st.write("01/2021 - 06/2021 | Bachelor's thesis, Grade:A")
+st.write("Based on massive supervisor developmental feedback (SDF) studies published in SSCI/CSSCI journals over the past two decades, this study clarifies the concept and measurements of SDF, categorizes existing research theories and summarizes influential mechanisms. Following these, various future research directions are proposed")
+st.image(sdf_04, width=600)
+st.write("---")
+
 
 
 
