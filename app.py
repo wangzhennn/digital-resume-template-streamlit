@@ -89,14 +89,24 @@ st.write(
 st.write('\n')
 st.subheader("Educational Background")
 st.write("---")
-# --- JOB 1
-st.write("**Master of Human Resource Management, Renmin University of China** (Top 3 univ. in CN)")
+# --- EDU 1 ---
+st.write("**Master of Human Resource Management, Renmin University of China** (Top 3 univ.)")
 st.write("09/2021 - 06/2024 (Expected)")
 st.write(
     """
 - ► **GPA**: 3.94/4.00
 - ► **Relevant Courses**: Strategic Management and Organization Theory (93), Organizational Behavior (92), Talent Assessment (90), Performance and Rewards Management (98), Data Analysis in Management Studies (94)
 - ► **Teaching Assistant**: Human Resource Training and Development (2021 Fall), Labor Economics (2021 Spring)
+"""
+)
+# --- EDU 2 ---
+st.write("**Exchange in Business Data Science & International Business, Aalborg University Business School**")
+st.write("02/2022 - 02/2023")
+st.write(
+    """
+- ► Awarded with Presidential Scholarship
+- ► Relevant Courses: Data Exploration and Applied Machine Learning (A), Natural Language Processing and Network Analysis (A), Equity and Non-Equity Modes of Internationalization (A), Sales Enablement and Marketing (Outstanding Case Study)
+- ► Training: Finished ‘Data Scientist in Python’ career course track in Datacamp, approx. 180 hrs
 """
 )
 
