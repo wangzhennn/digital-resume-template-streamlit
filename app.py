@@ -59,7 +59,7 @@ with col2:
         data=PDFbyte,
         file_name=resume_file.name,
         mime="application/octet-stream",
-    )
+    
     st.write("📫", EMAIL)
 
 
@@ -107,7 +107,7 @@ components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vQqmEq54pq2ux
 st.write("**Reducing Employees’ Time Theft through Supervisor Developmental Feedback: A Serial Multiple Mediation Model of Perceived Insider Status and Work Passion**")
 st.write("09/2022 - 02/2024")
 st.write("Drawing the intensified ‘cat-and-mouse game’ between leaders and employees in combating time theft with the evolution of technologies, this study aims to identify how to encourage employees to proactively perform work roles more appropriately instead of using punitive actions. Study 2 further employed NLP to analyze feedback topics and differential influence")
-st.image(sdf_dig, width=432)
+st.image(sdf_dig, width=800)
 
 
 
