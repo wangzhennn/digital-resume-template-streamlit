@@ -90,11 +90,16 @@ components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vSFaYEd2daBIa
 
 
 # --- Project Portfolio 2 ---
-st.write("**Employee Attrition Analysis**")
+st.write("**Employee Attrition Analysis for company X**")
 st.write("10/2022 - 11/2022")
 st.write("This project employed machine learning on employees' feature data to profile employee groups and identify the attrition impact factors for the high-attrition groups. After figuring out income as the rooted driven factor, this project further diagnosed and outlined income internal fairness problems (Grade: 12/12)")
 components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vSOE_ScAWIoVZPNIyuLGhF_0O4PrFGQf6TW6sF7pCAfsl_mL7KLmSn0YE7VskCkLg/embed?start=true&loop=false&delayms=3000", height=432)
 
+# --- Project Portfolio 3 ---
+st.write("**User Analysis for The Safe Delivery App of Maternity Foundation**")
+st.write("11/2022 - 01/2023")
+st.write("Aiming to identify and find ways to reactivate dormant App users, this project conducted user journey, profile and usage analysis with App footprint data. Employed machine learning on dormant user identification and feature analysis. Leveraged results with customized suggestion for different user profiles. For project managment, this project applied a hybrid model of CRISP-DM and agile method as the main guideline")
+components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vSOE_ScAWIoVZPNIyuLGhF_0O4PrFGQf6TW6sF7pCAfsl_mL7KLmSn0YE7VskCkLg/embed?start=true&loop=false&delayms=3000", height=432)
 
 
 
