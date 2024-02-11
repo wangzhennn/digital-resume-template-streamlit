@@ -90,7 +90,7 @@ st.write('\n')
 st.subheader("Educational Background")
 st.write("---")
 # --- JOB 1
-st.write("**Master of Human Resource Management, Renmin University of China** (985, 211)")
+st.write("**Master of Human Resource Management, Renmin University of China** (Top 3 univ. in CN)")
 st.write("09/2021 - 06/2024 (Expected)")
 st.write(
     """
