@@ -45,7 +45,6 @@ with open(resume_file, "rb") as pdf_file:
 profile_pic = Image.open(profile_pic)
 sdf_dig=Image.open(sdf_dig)
 sdf_02=Image.open(sdf_02)
-sdf_03=Image.open(sdf_03)
 
 # --- HERO SECTION ---
 col1, col2 = st.columns(2, gap="small")
