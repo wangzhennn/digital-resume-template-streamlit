@@ -77,13 +77,28 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
 # --- Research Interest ---
 st.write('\n')
 st.subheader("Reserach Interest")
+st.write("---")
 st.write(
     """
-- ✔️ Human resource analytics: Generate insights employing computational techniques on unstructured multimodal data
+- ✔️ **Human resource analytics**: Generate insights employing computational techniques on unstructured multimodal data
 - ✔️ Individual outcome (emotional/attitudinal/behavioral) from applying of advanced technologies in HRM, e.g., computerized performance monitoring system
 """
 )
 
+# --- Educational Background ---
+st.write('\n')
+st.subheader("Educational Background")
+st.write("---")
+# --- JOB 1
+st.write("🚧", "**Senior Data Analyst | Ross Industries**")
+st.write("02/2020 - Present")
+st.write(
+    """
+- ► Used PowerBI and SQL to redeﬁne and track KPIs surrounding marketing initiatives, and supplied recommendations to boost landing page conversion rate by 38%
+- ► Led a team of 4 analysts to brainstorm potential marketing and sales improvements, and implemented A/B tests to generate 15% more client leads
+- ► Redesigned data model through iterations that improved predictions by 12%
+"""
+)
 
 # --- SKILLS ---
 st.write('\n')
