@@ -13,8 +13,8 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Zhen Wang"
-PAGE_ICON = "👨‍🎓"
-NAME = "Zachary Wang"
+PAGE_ICON = "🌟"
+NAME = "Zhen Wang"
 DESCRIPTION = """
 Master student majoring in Human Resource Management and minor in Data Science. Seeking for Ph.D. in People Analytics
 """
@@ -68,15 +68,19 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
     cols[index].write(f"[{platform}]({link})")
 
 
-# --- EXPERIENCE & QUALIFICATIONS ---
+
+
+
+
+
+
+# --- Research Interest ---
 st.write('\n')
-st.subheader("Experience & Qulifications")
+st.subheader("Reserach Interest")
 st.write(
     """
-- ✔️ 7 Years expereince extracting actionable insights from data
-- ✔️ Strong hands on experience and knowledge in Python and Excel
-- ✔️ Good understanding of statistical principles and their respective applications
-- ✔️ Excellent team-player and displaying strong sense of initiative on tasks
+- ✔️ Human resource analytics: Generate insights employing computational techniques on unstructured multimodal data
+- ✔️ Individual emotional/attidinal/behavioral outcome from utilization of advanced technologies in HRM
 """
 )
 
