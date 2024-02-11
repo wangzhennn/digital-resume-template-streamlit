@@ -100,13 +100,13 @@ st.write(
 """
 )
 # --- EDU 2 ---
-st.write("**Exchange in Business Data Science & International Business, Aalborg University Business School**")
+st.write("**Exchange in Business Data Science, Aalborg University Business School**")
 st.write("02/2022 - 02/2023")
 st.write(
     """
-- ► Awarded with Presidential Scholarship
+- ► Awarded with Presidential Scholarship from Renmin University of China
 - ► Relevant Courses: Data Exploration and Applied Machine Learning (A), Natural Language Processing and Network Analysis (A), Equity and Non-Equity Modes of Internationalization (A), Sales Enablement and Marketing (Outstanding Case Study)
-- ► Training: Finished ‘Data Scientist in Python’ career course track in Datacamp, approx. 180 hrs
+- ► Training: Finished ‘Data Scientist in Python’ career course track in Datacamp (~180 hrs)
 """
 )
 
