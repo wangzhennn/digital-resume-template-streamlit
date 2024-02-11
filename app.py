@@ -13,6 +13,7 @@ sdf_01 = current_dir / "assets" / "sdf_01.png"
 sdf_02 = current_dir / "assets" / "sdf_02.png"
 ceo_01 = current_dir / "assets" / "ceo_01.png"
 sdf_04 = current_dir / "assets" / "sdf_04.png"
+eld_01 = current_dir / "assets" / "eld_01.png"
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Zhen Wang"
@@ -49,6 +50,7 @@ sdf_01=Image.open(sdf_01)
 sdf_02=Image.open(sdf_02)
 ceo_01=Image.open(ceo_01)
 sdf_04=Image.open(sdf_04)
+eld_01=Image.open(eld_01)
 
 # --- HERO SECTION ---
 col1, col2 = st.columns(2, gap="small")
