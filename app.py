@@ -80,8 +80,8 @@ st.subheader("Reserach Interest")
 st.write("---")
 st.write(
     """
-- ✔️ **Human resource analytics**: Generate insights employing computational techniques on unstructured multimodal data
-- ✔️ **Individual outcome** (emotional/attitudinal/behavioral) from applying of advanced technologies in HRM, e.g., computerized performance monitoring system
+- ► **Human resource analytics**: Generate insights employing computational techniques on unstructured multimodal data
+- ► **Individual outcome** (emotional/attitudinal/behavioral) from applying of advanced technologies in HRM, e.g., computerized performance monitoring system
 """
 )
 
@@ -90,13 +90,13 @@ st.write('\n')
 st.subheader("Educational Background")
 st.write("---")
 # --- JOB 1
-st.write("**Master of Human Resource Management**, Renmin University of China (Major rank 1st in China)")
-st.write("02/2020 - Present")
+st.write("**Master of Human Resource Management, Renmin University of China**")
+st.write("09/2021 - 06/2024 (Expected)")
 st.write(
     """
-- ► Used PowerBI and SQL to redeﬁne and track KPIs surrounding marketing initiatives, and supplied recommendations to boost landing page conversion rate by 38%
-- ► Led a team of 4 analysts to brainstorm potential marketing and sales improvements, and implemented A/B tests to generate 15% more client leads
-- ► Redesigned data model through iterations that improved predictions by 12%
+- ► GPA: 3.94/4.00
+- ► Relevant Courses: Strategic Management and Organization Theory (93), Organizational Behavior (92), Talent Assessment (90), Performance and Rewards Management (98), Data Analysis in Management Studies (94)
+- ► Teaching Assistant: Human Resource Training and Development (2021 Fall), Labor Economics (2021 Spring)
 """
 )
 
