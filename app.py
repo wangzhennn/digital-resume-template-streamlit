@@ -104,10 +104,15 @@ components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vQqmEq54pq2ux
 st.write("---")
 # --- Project Portfolio 4 ---
 st.write("**Reducing Employees’ Time Theft through Supervisor Developmental Feedback: A Serial Multiple Mediation Model of Perceived Insider Status and Work Passion**")
-st.write("09/2022 - 02/2024 | Under SSCI Journal Review")
+st.write("12/2023 - 02/2024 | Submitted to SSCI Journal")
 st.write("Drawing the intensified ‘cat-and-mouse game’ between leaders and employees in combating time theft with the evolution of monitoring technologies, this study aims to identify how to encourage employees to proactively perform work roles more appropriately instead of using punitive actions. Study 2 further employed Topic Analysis techniques (Sentence-BERT+LDA) to analyze feedback topics and the differential influence")
 st.image(sdf_dig, width=700)
 st.image(sdf_02, width=700)
+st.write("---")
+# --- Project Portfolio 5 ---
+st.write("**Does Inside CEO Matter for Chinese Family Firm Innovative Performance: The Moderating Role of Market Turbulence and CEO Overconfidence**")
+st.write("09/2022 - 02/2024 | Under SSCI Journal Review")
+st.write("While CEOs play crucial roles in shaping family firms’ innovation strategies, existing studies remain controversial on which CEO succession origin, i.e. inside CEOs or outside CEOs, can better increase family firms’ innovative performance. This study extends current research by considering the boundary effects of macro environmental contingency and micro CEO psychological bias. Using a sample of 194 Chinese family firms from 2007 to 2019, our findings suggest that inside CEOs perform better than outside CEOs in family firms’ innovative performance. Furthermore, the impact of CEO succession origin on innovative performance is weaker in the context of higher market turbulence")
 st.write("---")
 
 
