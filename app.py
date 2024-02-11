@@ -80,7 +80,7 @@ st.subheader("Reserach Interest")
 st.write(
     """
 - ✔️ Human resource analytics: Generate insights employing computational techniques on unstructured multimodal data
-- ✔️ Individual emotional/attitudinal/behavioral outcome from application of technologies in Human Resource Management, e.g., computerized performance monitoring system
+- ✔️ Individual outcome (emotional/attitudinal/behavioral) from applying of advanced technologies in HRM, e.g., computerized performance monitoring system
 """
 )
 
