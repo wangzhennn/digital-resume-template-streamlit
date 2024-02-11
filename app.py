@@ -92,7 +92,7 @@ components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vSFaYEd2daBIa
 # --- Project Portfolio 2 ---
 st.write("**Employee Attrition Analysis for company X**")
 st.write("10/2022 - 11/2022")
-st.write("Aiming at understanding the rationale for employees’ attrition, this project employed machine learning on employees' feature data to profile employee groups with various attrition levels and identify the attrition impact factors for the high attrition groups. After figuring out income as the rooted driven factor, this project further diagnosed and outlined income internal fairness problems (Grade: 12/12) (Grade: 12/12)")
+st.write("Aiming at understanding the rationale for employees’ attrition, this project employed machine learning on employees' feature data to profile employee groups with various attrition levels and identify the attrition impact factors for the high attrition groups. After figuring out income as the rooted driven factor, this project further diagnosed and outlined income internal fairness problems (Grade: 12/12)")
 components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vSOE_ScAWIoVZPNIyuLGhF_0O4PrFGQf6TW6sF7pCAfsl_mL7KLmSn0YE7VskCkLg/embed?start=true&loop=false&delayms=3000", height=432)
 
 # --- Project Portfolio 3 ---
@@ -102,71 +102,6 @@ st.write("Aiming to identify and reactivate dormant App users, this project cond
 components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vQqmEq54pq2uxKTH_nTKvj0efOIL5gZ6CcR495oEKBxQj0sA8-yczeeqDzv3UUXGQ/embed?start=true&loop=false&delayms=3000", height=432)
 
 
-
-
-# --- EDU 2 ---
-st.write("**Exchange in Business Data Science, Aalborg University Business School**")
-st.write("02/2022 - 02/2023")
-st.write(
-    """
-- ► Awarded with Presidential Scholarship from Renmin University of China
-- ► Relevant Courses: Data Exploration and Applied Machine Learning (A), Natural Language Processing and Network Analysis (A), Equity and Non-Equity Modes of Internationalization (A), Sales Enablement and Marketing (Outstanding Case Study)
-- ► Training: Finished ‘Data Scientist in Python’ career course track in Datacamp (~180 hrs)
-"""
-)
-
-# --- SKILLS ---
-st.write('\n')
-st.subheader("Hard Skills")
-st.write(
-    """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, VBA
-- 📊 Data Visulization: PowerBi, MS Excel, Plotly
-- 📚 Modeling: Logistic regression, linear regression, decition trees
-- 🗄️ Databases: Postgres, MongoDB, MySQL
-"""
-)
-
-
-# --- WORK HISTORY ---
-st.write('\n')
-st.subheader("Work History")
-st.write("---")
-
-# --- JOB 1
-st.write("🚧", "**")
-st.write("02/2020 - Present")
-st.write(
-    """
-- ► Used PowerBI and SQL to redeﬁne and track KPIs surrounding marketing initiatives, and supplied recommendations to boost landing page conversion rate by 38%
-- ► Led a team of 4 analysts to brainstorm potential marketing and sales improvements, and implemented A/B tests to generate 15% more client leads
-- ► Redesigned data model through iterations that improved predictions by 12%
-"""
-)
-
-# --- JOB 2
-st.write('\n')
-st.write("🚧", "**Data Analyst | Liberty Mutual Insurance**")
-st.write("01/2018 - 02/2022")
-st.write(
-    """
-- ► Built data models and maps to generate meaningful insights from customer data, boosting successful sales eﬀorts by 12%
-- ► Modeled targets likely to renew, and presented analysis to leadership, which led to a YoY revenue increase of $300K
-- ► Compiled, studied, and inferred large amounts of data, modeling information to drive auto policy pricing
-"""
-)
-
-# --- JOB 3
-st.write('\n')
-st.write("🚧", "**Data Analyst | Chegg**")
-st.write("04/2015 - 01/2018")
-st.write(
-    """
-- ► Devised KPIs using SQL across company website in collaboration with cross-functional teams to achieve a 120% jump in organic traﬃc
-- ► Analyzed, documented, and reported user survey results to improve customer communication processes by 18%
-- ► Collaborated with analyst team to oversee end-to-end process surrounding customers' return data
-"""
-)
 
 
 # --- Projects & Accomplishments ---
