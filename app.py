@@ -17,9 +17,7 @@ PAGE_ICON = "👨‍🎓"
 NAME = "Zhen Wang"
 DESCRIPTION = """
 Master of Human Resource Management
-
 Minor in Business Data Science
-
 Seeking for Ph.D. in People Analytics
 """
 EMAIL = "wangzhen611@ruc.edu.cn"
