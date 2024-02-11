@@ -105,7 +105,7 @@ st.write("---")
 # --- Project Portfolio 4 ---
 st.write("**Reducing Employees’ Time Theft through Supervisor Developmental Feedback: A Serial Multiple Mediation Model of Perceived Insider Status and Work Passion**")
 st.write("09/2022 - 02/2024")
-st.write("Drawing the intensified ‘cat-and-mouse game’ between leaders and employees in combating time theft with the evolution of technologies, this study aims to identify how to encourage employees to proactively perform work roles more appropriately instead of using punitive actions. Study 2 further employed NLP to analyze feedback topics and differential influence")
+st.write("Drawing the intensified ‘cat-and-mouse game’ between leaders and employees in combating time theft with the evolution of monitoring technologies, this study aims to identify how to encourage employees to proactively perform work roles more appropriately instead of using punitive actions. Study 2 further employed Topic Analysis techniques (Sentence-BERT+LDA) to analyze feedback topics and the differential influence")
 st.image(sdf_dig, width=700)
 st.write("---")
 
