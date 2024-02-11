@@ -85,13 +85,8 @@ st.write("---")
 # --- Project Portfolio 1 ---
 st.write("**Leadership Research Progress in past 5 years**")
 st.write("10/2022 - 11/2022")
-st.write(
-    """
-- 🔸 **GPA**: 3.94/4.00
-- 🔸 **Relevant Courses**: Strategic Management and Organization Theory (93), Organizational Behavior (92), Talent Assessment (90), Performance and Rewards Management (98), Data Analysis in Management Studies (94)
-- 🔸 **Teaching Assistant**: Human Resource Training and Development (2021 Fall), Labor Economics (2021 Spring)
-"""
-)
+st.write("Employed NLP models to identify key research topics in the leadership field (OB area) based on Scopus publication data, and analyzed the dynamic trend over the past 5 years. Applied Network Analysis on top author/author corporation analysis
+")
 # --- EDU 2 ---
 st.write("**Exchange in Business Data Science, Aalborg University Business School**")
 st.write("02/2022 - 02/2023")
