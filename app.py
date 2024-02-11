@@ -90,7 +90,7 @@ st.write('\n')
 st.subheader("Educational Background")
 st.write("---")
 # --- JOB 1
-st.write("🚧", "**Senior Data Analyst | Ross Industries**")
+st.write("**Master of Human Resource Management**, Renmin University of China (Major rank 1st in China)")
 st.write("02/2020 - Present")
 st.write(
     """
@@ -119,7 +119,7 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "**Master of Human Resource Management | Renmin University of China** (Major rank 1st in China)")
+st.write("🚧", "**")
 st.write("02/2020 - Present")
 st.write(
     """
