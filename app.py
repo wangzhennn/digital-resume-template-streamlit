@@ -43,6 +43,7 @@ with open(css_file) as f:
 with open(resume_file, "rb") as pdf_file:
     PDFbyte = pdf_file.read()
 profile_pic = Image.open(profile_pic)
+sdf_dig=Image.open(sdf_dig)
 
 
 # --- HERO SECTION ---
