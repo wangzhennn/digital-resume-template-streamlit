@@ -2,7 +2,7 @@ from pathlib import Path
 
 import streamlit as st
 from PIL import Image
-
+import streamlit.components.v1 as components
 
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
@@ -86,7 +86,7 @@ st.write("---")
 st.write("**Leadership Research Progress in past 5 years**")
 st.write("10/2022 - 11/2022")
 st.write("Based on Scopus publication data, this project employed Natural Language Processing models to identify key research topics in the leadership field (Organizational Behavior area) and analyzed the dynamic trend over the past 5 years. Additionally, this project applied Network Analysis on top author/author corporation network analysis (Grade:12/12)")
-
+components.iframe("https://docs.google.com/presentation/d/1ACDRrlKMxq4rHnxB6Gl6cv4pUxWvu75e/edit?usp=sharing&ouid=107840395879904815242&rtpof=true&sd=true", height=480)
 
 
 
