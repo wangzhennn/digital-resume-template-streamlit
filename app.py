@@ -88,10 +88,11 @@ st.write("10/2022 - 11/2022")
 st.write("Based on Scopus publication data, this project employed Natural Language Processing models to identify key research topics in the leadership field (Organizational Behavior area) and analyzed the dynamic trend over the past 5 years. Additionally, this project applied Network Analysis on top author/author corporation network analysis (Grade:12/12)")
 components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vSFaYEd2daBIaExYXzmtnwazls35nTVOLztx4Yqv6-W-f3ls9-vfaU4XwL45FCM6A/embed?start=true&loop=false&delayms=3000", height=432)
 
+
 # --- Project Portfolio 2 ---
 st.write("**Employee Attrition Analysis**")
 st.write("10/2022 - 11/2022")
-st.write("Employed machine learning on employees’ feature data to profile employees and identify the attrition impact factors for company X. After figuring out income as the driven facotr, this project further diagnosed income internal fairness problems and provided suggestions")
+st.write("This project employed machine learning on employees' feature data to profile employees and identify the attrition impact factors. After figuring out income as the rooted driven factor, this project further diagnosed and outlined income internal fairness problems (Grade: 12/12)")
 components.iframe("https://docs.google.com/presentation/d/e/2PACX-1vSOE_ScAWIoVZPNIyuLGhF_0O4PrFGQf6TW6sF7pCAfsl_mL7KLmSn0YE7VskCkLg/embed?start=true&loop=false&delayms=3000", height=432)
 
 
