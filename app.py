@@ -81,7 +81,7 @@ st.write("---")
 st.write(
     """
 - ✔️ **Human resource analytics**: Generate insights employing computational techniques on unstructured multimodal data
-- ✔️ Individual outcome (emotional/attitudinal/behavioral) from applying of advanced technologies in HRM, e.g., computerized performance monitoring system
+- ✔️ **Individual outcome** (emotional/attitudinal/behavioral) from applying of advanced technologies in HRM, e.g., computerized performance monitoring system
 """
 )
 
@@ -119,7 +119,7 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "**Senior Data Analyst | Ross Industries**")
+st.write("🚧", "**Master of Human Resource Management | Renmin University of China** (Major rank 1st in China)")
 st.write("02/2020 - Present")
 st.write(
     """
