@@ -9,7 +9,7 @@ current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
 resume_file = current_dir / "assets" / "CV.pdf"
 profile_pic = current_dir / "assets" / "profile.png"
-sdf_dig = current_dir / "assets" / "sdf_dig_Zhen_Vfinal.png"
+sdf_01 = current_dir / "assets" / "sdf_01dig_Zhen_Vfinal.png"
 sdf_02 = current_dir / "assets" / "sdf_02.png"
 ceo_01 = current_dir / "assets" / "ceo_01.png"
 
@@ -44,7 +44,7 @@ with open(css_file) as f:
 with open(resume_file, "rb") as pdf_file:
     PDFbyte = pdf_file.read()
 profile_pic = Image.open(profile_pic)
-sdf_dig=Image.open(sdf_dig)
+sdf_01=Image.open(sdf_01)
 sdf_02=Image.open(sdf_02)
 ceo_01=Image.open(ceo_01)
 
@@ -108,7 +108,7 @@ st.write("---")
 st.write("**Reducing Employees’ Time Theft through Supervisor Developmental Feedback: A Serial Multiple Mediation Model of Perceived Insider Status and Work Passion**")
 st.write("12/2023 - 02/2024 | Submitted to SSCI Journal")
 st.write("Drawing the intensified ‘cat-and-mouse game’ between leaders and employees in combating time theft with the evolution of monitoring technologies, this study aims to identify how to encourage employees to proactively perform work roles more appropriately instead of using punitive actions. Study 2 further employed Topic Analysis techniques (Sentence-BERT+LDA) to analyze feedback topics and the differential influence")
-st.image(sdf_dig, width=700)
+st.image(sdf_01, width=700)
 st.image(sdf_02, width=700)
 st.write("---")
 # --- Project Portfolio 5 ---
